@@ -1,0 +1,106 @@
+
+
+body {
+  background-image: url("https://images.unsplash.com/photo-1496856226975-a7cf90c4dd25?fit=crop&fm=jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  padding-bottom: 50px;
+  color: white;
+}
+
+h3 {
+  text-align: center;
+  margin-top: 30px;
+  color: white;
+}
+
+p {
+  text-align: justify;
+  color: white;
+}
+
+.bigbox {
+ 
+  margin-top: 100px;
+  margin-bottom: 30px;
+  padding-bottom: 50px;
+  padding-top: 50px;
+  border-radius: 10px;
+}
+
+#lastbox {
+ 
+  margin-top: 200px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  padding-left: 50px;
+  padding-right: 50px;
+  border-radius: 10px;
+}
+
+#textbox {
+  padding: 20px;
+  font-size: large;
+}
+
+#portfolio {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.contactbox {
+  padding: 50px;
+  font-size: large;
+  
+}
+
+.idpic {
+  width: 150px;
+  display: block;
+  margin: auto;
+  vertical-align: middle;
+}
+
+.card-deck {
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+.card-block {
+  color: #8A0886;
+}
+
+.centrage {
+  text-align: center;
+}
+
+.socialicons {
+  padding-top: 60px;
+}
+
+a:link {
+  color: #8A0886;
+}
+
+a:visited {
+  color: #9A2EFE;
+}
+
+a:hover {
+  color: #FF00FF;
+}
+
+.navbar ul.navbar-nav li.nav-item a.nav-link {
+  color: white;
+}
